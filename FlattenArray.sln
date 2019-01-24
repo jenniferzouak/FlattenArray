@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenArray", "FlattenArray\FlattenArray.csproj", "{BA9BC8F1-B835-42E7-8F71-05266A4E062D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenArray.Test", "FlattenArray.Test\FlattenArray.Test.csproj", "{6F748322-1865-42EF-BD65-FA67066FA61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9BC8F1-B835-42E7-8F71-05266A4E062D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9BC8F1-B835-42E7-8F71-05266A4E062D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9BC8F1-B835-42E7-8F71-05266A4E062D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9BC8F1-B835-42E7-8F71-05266A4E062D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F748322-1865-42EF-BD65-FA67066FA61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F748322-1865-42EF-BD65-FA67066FA61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F748322-1865-42EF-BD65-FA67066FA61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F748322-1865-42EF-BD65-FA67066FA61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
